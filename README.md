@@ -7,3 +7,5 @@ We collect here all the useful scripts for an ez copy pasta
 ##### Android
 [Cert pinning](https://github.com/secRet-re/frida-scripts/blob/master/android/pinning.js)
 
+[Break selinux check](https://github.com/secRet-re/frida-scripts/blob/master/android/selinux_check.js)
+
