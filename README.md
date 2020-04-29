@@ -14,4 +14,4 @@ We collect here all the useful scripts for an ez copy pasta
 [Common calls for su and other detections](https://github.com/secRet-re/frida-scripts/blob/master/android/common_detections_calls.js)
 
 ##### Unix
-[run code on a new thread](https://github.com/secRet-re/frida-scripts/blob/master/unix/pthread_create_n_task.js)
+[Run code on a new thread](https://github.com/secRet-re/frida-scripts/blob/master/unix/pthread_create_n_task.js)
