@@ -7,6 +7,8 @@ We collect here all the useful scripts for an ez copy pasta
 [Stalk SVC](https://github.com/secRet-re/frida-scripts/blob/master/arm64/stalk_svc.js)
 
 ##### Android
+[Backtrace](https://github.com/secRet-re/frida-scripts/blob/master/android/backtrace.js)
+
 [Break selinux check](https://github.com/secRet-re/frida-scripts/blob/master/android/selinux_check.js)
 
 [Cert pinning](https://github.com/secRet-re/frida-scripts/blob/master/android/pinning.js)
