@@ -41,6 +41,6 @@ startJavaTracer(['list', 'of', 'target', 'classes'], {
         } else if (ret === null) {
             ret = 'null';
         }
-        console.log('|<' + this.depthLine, this.$className, this.method, ret.toString());
+        console.log('|<' + this.depthLine, this.$className + '.' + this.method, ret.toString());
     }
 })
