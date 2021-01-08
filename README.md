@@ -19,5 +19,7 @@ We collect here all the useful scripts for an ez copy pasta
 
 [Hook native library loading](https://github.com/secRet-re/frida-scripts/blob/master/android/hook_system_load_library.js)
 
+[Satically grab an handle to root activity and root layout](https://github.com/secRet-re/frida-scripts/blob/master/android/statically_access_root_activity_and_layout.js)
+
 ##### Unix
 [Run code on a new thread](https://github.com/secRet-re/frida-scripts/blob/master/unix/pthread_create_n_task.js)
